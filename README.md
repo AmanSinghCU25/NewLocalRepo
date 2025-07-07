@@ -1,2 +1,0 @@
-# NewLocalRepo
-Repo for Practice
